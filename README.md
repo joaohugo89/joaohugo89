@@ -2,8 +2,12 @@
   <img src="assets/profile-banner.png" alt="Dark blue and mint cloud infrastructure banner" width="100%" />
 
   <h1>João Hugo</h1>
-  <h3>Computer Engineer · Full Stack Developer · Backend & Cloud</h3>
-
+  <div align="center">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=2500&pause=900&color=4EDEA3&center=true&vCenter=true&width=600&lines=Backend+Developer;Full+Stack+Developer;Cloud+%26+AWS;Software+Engineer"
+      alt="Backend Developer | Full Stack Developer | Cloud & AWS | Software Engineer"
+    />
+  </div>
   <p>
     Building practical software with a focus on backend engineering, cloud development, and thoughtful user experiences.
   </p>
