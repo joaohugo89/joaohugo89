@@ -9,13 +9,13 @@
   </p>
 
   <p>
-    <a href="https://joaohugo.com">
+    <a href="https://portfolio.joaohugo.com">
       <img src="https://img.shields.io/badge/Portfolio-joaohugo.com-131313?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" />
     </a>
     <a href="https://github.com/joaohugo89">
       <img src="https://img.shields.io/badge/GitHub-Projects-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub projects" />
     </a>
-    <a href="https://freelancer.joaohugo.com">
+    <a href="https://joaohugo.com">
       <img src="https://img.shields.io/badge/JH.COMP-Development-0D9488?style=for-the-badge&logo=code&logoColor=white" alt="JH.COMP Development" />
     </a>
   </p>
@@ -109,7 +109,7 @@ I'm a Computer Engineer graduated from **UNIFEI**, interested in building reliab
 
 <div align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=joaohugo89&show_icons=true&hide_border=true&rank_icon=github&theme=transparent&title_color=adc6ff&icon_color=4edea3&text_color=c9d1d9" alt="GitHub profile statistics" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaohugo89&layout=compact&hide_border=true&theme=transparent&title_color=adc6ff&text_color=c9d1d9" alt="Most used programming languages" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaohugo89&layout=compact&hide=Jupyter%20Notebook&hide_border=true&theme=transparent&title_color=adc6ff&text_color=c9d1d9" alt="Most used programming languages" />
 </div>
 
 ---
