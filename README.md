@@ -31,24 +31,9 @@ building:  JH Comp — websites, systems & tech support for small businesses
 
 <img src="assets/title-projects.svg" width="100%" alt="Featured projects" />
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/joaohugo89/B2B-Planner"><img src="assets/card-b2b-planner.svg" width="100%" alt="B2B Planner — content planning platform with AI-assisted features" /></a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/joaohugo89/picpaysimplicado"><img src="assets/card-picpay.svg" width="100%" alt="PicPay Simplificado — REST APIs, service integration, validation and tests" /></a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" align="center">
-      <a href="https://github.com/joaohugo89/auth-platform"><img src="assets/card-auth-platform.svg" width="100%" alt="Authentication Platform — token-based sessions and application security" /></a>
-    </td>
-    <td width="50%" align="center">
-      <a href="https://github.com/joaohugo89/order-api"><img src="assets/card-order-api.svg" width="100%" alt="Order API — order workflows and relational data" /></a>
-    </td>
-  </tr>
-</table>
+<!-- Cards gerados automaticamente por .github/workflows/update-cards.yml — não edite à mão -->
+<!-- PROJECTS:START -->
+<!-- PROJECTS:END -->
 
 <details>
 <summary><b>⚡ Websites & digital experiences</b></summary>
