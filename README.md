@@ -33,6 +33,24 @@ building:  JH Comp — websites, systems & tech support for small businesses
 
 <!-- Cards gerados automaticamente por .github/workflows/update-cards.yml — não edite à mão -->
 <!-- PROJECTS:START -->
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/joaohugo89/agendamento"><img src="assets/cards/repo-1.svg" width="100%" alt="agendamento" /></a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/joaohugo89/balcao"><img src="assets/cards/repo-2.svg" width="100%" alt="balcao" /></a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <a href="https://github.com/joaohugo89/B2B-Planner"><img src="assets/cards/repo-3.svg" width="100%" alt="B2B-Planner — Internal B2B content management and planning platform for JH.COMP, featuring an Instagram feed planner, post management, copy guides, templates, AI assistance and social media integrations." /></a>
+    </td>
+    <td width="50%" align="center">
+      <a href="https://github.com/joaohugo89/LeetCode-Answers"><img src="assets/cards/repo-4.svg" width="100%" alt="LeetCode-Answers — Combinations of all the LeetCode answers" /></a>
+    </td>
+  </tr>
+</table>
 <!-- PROJECTS:END -->
 
 <details>
